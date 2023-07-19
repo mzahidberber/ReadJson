@@ -1,0 +1,93 @@
+.jsonCard {
+    border: 1px thin solid #ffff;
+    background: rgba(27, 31, 34, 1)
+}
+
+
+
+
+.copyBtnBox{
+
+}
+
+
+
+#copyBtnBoxBody{
+    background: rgba(27, 31, 34, 1);
+    border: 1px thin solid #ffff;
+}
+
+#copyBtnBoxBody:hover{
+    border: 1px solid #5BDFC1;
+    background-color: rgba(27, 31, 34, 1);
+}
+
+#copyBtnBoxHeader{
+    background: rgba(27, 31, 34, 1);
+    border: 1px thin solid #ffff;
+}
+
+#copyBtnBoxHeader:hover{
+    border: 1px solid #5BDFC1;
+    background-color: rgba(27, 31, 34, 1);
+}
+
+.copyBtn{
+    height:20px;
+    width:20px;
+    
+}
+
+.headerUrl{
+    color:#ADB5BD;
+}
+
+.headerSeperator{
+    height:100%; 
+    width:2px;
+    background-color:dimgray;
+}
+
+.headerPut{
+    color: #6EDFF6;
+}
+
+.headerPost{
+    color: #FFDA69;
+}
+
+.headerGet{
+    color: #5BDFC1;
+}
+
+.headerDelete{
+    color: #DA85B5;
+}
+
+.jsonLine {
+    color: gray;
+}
+
+.jsonLine .jsonBrackets {
+    color: #ADB5BD;
+}
+
+.jsonLine .jsonSpace {
+    color: gray;
+}
+
+.jsonLine .jsonOperator {
+    color: #FFDA69;
+}
+
+.jsonLine .jsonValue {
+    color: #FFE67C;
+}
+
+.jsonLine .jsonKey {
+    color: #5BDFC1;
+}
+.jsonCardHeight {
+    max-height:350px;
+}
+

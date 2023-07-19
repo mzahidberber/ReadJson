@@ -1,0 +1,63 @@
+{
+  "id": 0,
+  "name": "string",
+  "userId": "string",
+  "layers": [
+    {
+      "id": 0,
+      "name": "string",
+      "lock": true,
+      "visibility": true,
+      "thickness": 0,
+      "drawBoxId": 0,
+      "penId": 0,
+      "pen": {
+        "id": 0,
+        "name": "string",
+        "userId": "string",
+        "penStyleId": 0,
+        "red": 0,
+        "blue": 0,
+        "green": 0,
+        "penStyle": {
+          "id": 0,
+          "name": "string"
+        }
+      },
+      "elements": [
+        {
+          "id": 0,
+          "penId": 0,
+          "typeId": 0,
+          "layerId": 0,
+          "points": [
+            {
+              "id": 0,
+              "x": 0,
+              "y": 0,
+              "elementId": 0,
+              "pointTypeId": 0
+            }
+          ],
+          "radiuses": [
+            {
+              "id": 0,
+              "value": 0,
+              "elementId": 0
+            }
+          ],
+          "ssangles": [
+            {
+              "id": 0,
+              "type": "string",
+              "value": 0,
+              "elementId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "createTime": "2023-07-03T16:56:53.314Z",
+  "editTime": "2023-07-03T16:56:53.314Z"
+}
